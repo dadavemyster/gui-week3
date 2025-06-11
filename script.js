@@ -1,4 +1,11 @@
-// JavaScript Document
+/*
+File: script.js
+GUI Assignment: HW3 - Multiplication Calculator
+David Boulos, UML C.S., David_Boulos@student.uml.edu
+Copyright (c) 2025 by David.  All rights reserved.  May be freely copied or 
+excerpted for educational purposes with credit to the author. 
+Updated by DB on June 11th, 2025 at 00:45 AM
+*/
 
 /* Multiplication Table Form submit button clicked. */
 document.getElementById("multiplicationForm").addEventListener("submit", function(event) {
